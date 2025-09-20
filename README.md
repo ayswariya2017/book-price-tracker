@@ -8,6 +8,10 @@ Small Python project that scrapes book data from BooksToScrape and tracks price 
 - Compares today's prices with previous run and reports price drops.
 - Optional simple Streamlit UI to view results.
 
+## 📸 Screenshots
+
+![Sample Output](screenshots/output.png)
+
 ## How to run
 1. Install dependencies:
    pip install -r requirements.txt
